@@ -11,8 +11,7 @@ body {
     background-attachment: fixed;
     margin: 0;
 }
-
-/* nav {
+ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -20,7 +19,7 @@ body {
     padding: 10px 20px;
     position: fixed;
     width: 100%;
-} */
+}
 
 .group {
     display: flex;
