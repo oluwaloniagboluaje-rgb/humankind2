@@ -12,7 +12,7 @@ body {
     margin: 0;
 }
 
-nav {
+/* nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -20,7 +20,7 @@ nav {
     padding: 10px 20px;
     position: fixed;
     width: 100%;
-}
+} */
 
 .group {
     display: flex;
